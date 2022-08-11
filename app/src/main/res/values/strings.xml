@@ -2,6 +2,6 @@
 <resources>
 
     <string name="app_name">PLCEmulatorLite</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_world1">Hello world!</string>
 
 </resources>
